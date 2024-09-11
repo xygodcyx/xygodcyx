@@ -1,8 +1,5 @@
-## Hi , 👋 我是XyGodCyx
-
 ## Hi, 👋 I ' m XyGodCyx
 
-- 🌱 I’m currently learning JavaScript,Vue,Nodejs
 - 🌱 我正在学习 JavaScript,Vue,Nodejs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
