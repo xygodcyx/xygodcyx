@@ -1,6 +1,7 @@
 ## Hi, 👋 I ' m XyGodCyx
 
-- 🌱 我正在学习 JavaScript,Vue,Nodejs
+- 🌐 JavaScript,Vue,Nodejs,GDScripts
+- 🎮 Godot,cocos,原生JavaScript,微信小程序......
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
