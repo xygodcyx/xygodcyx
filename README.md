@@ -1,4 +1,4 @@
-## Hi, 👋 I ' m XyGodCyx
+## Hi👋, I ' m XyGodCyx
 
 - 🌐 JavaScript,Vue,Nodejs,GDScripts
 - 🎮 Godot,cocos,原生JavaScript,微信小程序......
