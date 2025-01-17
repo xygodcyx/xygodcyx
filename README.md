@@ -9,9 +9,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture>
-  <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
-</picture>
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <picture>
   <img alt="most-commit-language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xygodcyx&theme=github">
@@ -21,4 +19,6 @@
   <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xygodcyx&theme=github">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<picture>
+  <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
+</picture>
