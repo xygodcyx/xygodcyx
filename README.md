@@ -10,11 +10,12 @@
 </picture>
 
 <picture>
-  <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
+  <img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
 </picture>
 
 <picture>
-  <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
+  <img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xygodcyx&theme=github">
 </picture>
+
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
