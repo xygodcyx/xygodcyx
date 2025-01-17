@@ -10,11 +10,12 @@
 </picture>
 
 <picture>
-  <img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
+  <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
 </picture>
 
 <picture>
-  <img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xygodcyx&theme=github">
+  <img alt="most-commit-language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xygodcyx&theme=github">
+  <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}">
 </picture>
 
 
