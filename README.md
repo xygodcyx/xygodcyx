@@ -1,7 +1,7 @@
 ## Hi👋, I ' m XyGodCyx
 
 - 🌐 JavaScript,Vue,Nodejs,GDScripts
-- 🎮 Godot,cocos,原生JavaScript,微信小程序......
+- 🎮 Godot,cocos,JavaScript游戏,微信小游戏
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
