@@ -15,9 +15,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   <img alt="most-commit-language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xygodcyx&theme=github">
 </picture>
 
-<picture>
-  <img alt="stats" src="[http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xygodcyx&theme=github](https://github-stats.aika.dev/api?username=baiwusanyu-c&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true)">
-</picture>
+<a href="https://github.com/pulls?q=author%3xygodcyx">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=baiwusanyu-c&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows 白雾三语's GitHub Stats." align="right" width="480px" src="https://github-stats.aika.dev/api?username=baiwusanyu-c&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+  </picture>
+</a>
 
 <picture>
   <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
