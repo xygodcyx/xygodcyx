@@ -16,7 +16,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 </picture>
 
 <picture>
-  <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xygodcyx&theme=github">
+  <img alt="stats" src="[http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xygodcyx&theme=github](https://github-stats.aika.dev/api?username=baiwusanyu-c&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true)">
 </picture>
 
 <picture>
