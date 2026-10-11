@@ -1,8 +1,17 @@
-## Hi👋, I ' m XyGodCyx
+## Hi👋, I'm XyGodCyx
 
-- 🌐 JavaScript,Vue,Nodejs,GDScripts
-- 🎮 Godot,cocos,JavaScript游戏,微信小游戏
+- 🌐 TypeScript, Vue, Node.js
+- 🎮 Godot, Cocos, JavaScript 游戏, 微信小游戏
+- 🐍 Python, C++, Rust
 
+<!-- 3D 贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xygodcyx/xygodcyx/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xygodcyx/xygodcyx/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/xygodcyx/xygodcyx/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+<!-- 动态蛇 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -11,17 +20,20 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<picture>
-  <img alt="most-commit-language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xygodcyx&theme=github">
-</picture>
-
-<a href="https://github.com/pulls?q=author%3xygodcyx">
+<!-- 统计卡片 - tokyonight 主题 -->
+<a href="https://github.com/pulls?q=author%3Axygodcyx">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=xygodcyx&theme=github&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows xygodcyx's GitHub Stats." align="left" src="https://github-stats.aika.dev/api?username=xygodcyx&theme=github&show_icons=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=xygodcyx&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
+    <img alt="GitHub Stats" align="left" src="https://github-stats.aika.dev/api?username=xygodcyx&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
   </picture>
 </a>
 
+<!-- 最常提交语言 - 2077 主题 -->
 <picture>
-  <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=github">
+  <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xygodcyx&theme=2077&hide_border=true">
+</picture>
+
+<!-- 个人详情 - 2077 主题 -->
+<picture>
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xygodcyx&theme=2077&hide_border=true">
 </picture>
